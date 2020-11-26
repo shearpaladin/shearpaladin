@@ -27,21 +27,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-
-## &#x1f4c8; GitHub Stats
-<!-- Top Programming Languages -->
-<a href="https://github.com/shearpaladin/shearpaladin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shearpaladin&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/shearpaladin/shearpaladin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shearpaladin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="shearpaladin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
