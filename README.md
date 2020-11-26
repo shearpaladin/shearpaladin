@@ -3,7 +3,6 @@
 <!--
 **shearpaladin/shearpaladin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning fullstack webdevelopment
+- 👯 I’m looking to collaborate on improving my libraries
+- 📫 How to reach me: You can email me at sandy6@ualberta.ca
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
