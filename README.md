@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning fullstack webdevelopment
-- 👯 I’m looking to collaborate on improving my libraries
+- 👯 I’m looking to collaborate on web application development
 - 📫 How to reach me: You can email me at sandy6@ualberta.ca
+- ⚡ Fun fact: Big League of Legends fan
 
 
 ## 🔧 Technologies & Tools
