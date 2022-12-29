@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning fullstack webdevelopment
+- 🌱 I’m currently learning fullstack webdevelopment, devops, cloud computing
 - 👯 I’m looking to collaborate on web application development
 - 📫 How to reach me: You can email me at shear1dev@gmail.com
 - ⚡ Fun fact: Big League of Legends fan
