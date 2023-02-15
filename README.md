@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cloud Computing, Devops, AWS, Azure, Mobile Development
 - 👯 I’m looking to collaborate on web application development
 - 📫 How to reach me: You can email me at shear1dev@gmail.com
-- ⚡ Fun fact: Big League of Legends fan
+- ⚡ Fun fact: Love to be outdoors and try new things!
 
 
 ## 🔧 Programming Languages
